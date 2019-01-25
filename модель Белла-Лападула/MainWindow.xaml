@@ -1,0 +1,34 @@
+﻿<Window x:Class="модель_Белла_Лападула.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:модель_Белла_Лападула"
+        mc:Ignorable="d"
+        Title="Модель Белла-Лападула" Height="490.986" Width="745.845">
+    <Grid>
+        <StackPanel HorizontalAlignment="Left" Height="229" Margin="424,10,0,0" VerticalAlignment="Top" Width="304">
+            <Button x:Name="btnAccesMatrix" IsEnabled="False" Content="Матрица доступов" HorizontalAlignment="Left" VerticalAlignment="Top" Width="304" Click="button_Click" RenderTransformOrigin="2.518,2.242"/>
+            <Button x:Name="add_del_obj" IsEnabled="False" Content="Добавление/Удаление объектов" Click="add_del_obj_Click"/>
+            <Button x:Name="add_del_subj" IsEnabled="False" Content="Добавление/Удаление субъектов" Click="add_del_subj_Click"/>
+            <Button x:Name="add_del_rights" IsEnabled="False" Content="Добавление/Удаление прав" Click="add_del_rights_Click"/>
+            <Button x:Name="button1" IsEnabled="False" Content="Изменение уровня доступа субъекта" Click="button1_Click"/>
+            <Button x:Name="change_owner" IsEnabled="False" Content="Изменение владельца объекта" Click="change_owner_Click"/>
+            <TextBlock x:Name="textBlock5" TextWrapping="Wrap" Text="Изменение уровня конфиденциальности объекта" HorizontalAlignment="Center"/>
+            <ComboBox x:Name="CBAcObj"  IsEnabled="False" SelectionChanged="CBAcObj_SelectionChanged"/>
+            <Button x:Name="btnChConfObj"  IsEnabled="False" Content="Изменить" Click="btnChConfObj_Click"/>
+        </StackPanel>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Введите имя" VerticalAlignment="Top" Width="88"/>
+        <TextBox x:Name="userName" HorizontalAlignment="Left" Height="23" Margin="10,31,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="235" TextChanged="userName_TextChanged"/>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="10,59,0,0" TextWrapping="Wrap" Text="Выберите файл" VerticalAlignment="Top" Width="88"/>
+        <ComboBox x:Name="CBobj" HorizontalAlignment="Left" Margin="10,80,0,0" VerticalAlignment="Top" Width="235" SelectionChanged="CBobj_SelectionChanged"/>
+        <Button x:Name="read" Content="Чтение" HorizontalAlignment="Left" Margin="10,114,0,0" VerticalAlignment="Top" Width="75" Click="read_Click"/>
+        <Button x:Name="write" Content="Запись" HorizontalAlignment="Left" Margin="90,114,0,0" VerticalAlignment="Top" Width="75" Click="write_Click"/>
+        <Button x:Name="exec" Content="Выполнение" HorizontalAlignment="Left" Margin="170,114,0,0" VerticalAlignment="Top" Width="75" Click="exec_Click"/>
+        <TextBlock x:Name="textBlock2" HorizontalAlignment="Left" Margin="10,159,0,0"  TextWrapping="Wrap" VerticalAlignment="Top" Height="296" Width="304" ScrollViewer.VerticalScrollBarVisibility="Auto"/>
+        <Button x:Name="add" Content="Добавление" HorizontalAlignment="Left" Margin="90,139,0,0" VerticalAlignment="Top" Width="75" Click="add_Click"/>
+        <Button x:Name="btnShowCurULvl" Content="Уровень пользователя" HorizontalAlignment="Left" VerticalAlignment="Top" Width="136" Margin="283,11,0,0" Click="btnShowCurULvl_Click"/>
+        <Button x:Name="btnShowCurFLvl" Content="Уровень файла" HorizontalAlignment="Left" VerticalAlignment="Top" Width="136" Margin="283,31,0,0" Click="btnShowCurFLvl_Click"/>
+        <Button x:Name="btnShowCurFOwn" Content="Владелец файла" HorizontalAlignment="Left" VerticalAlignment="Top" Width="136" Margin="283,51,0,0" Click="btnShowCurFOwn_Click"/>
+    </Grid>
+</Window>

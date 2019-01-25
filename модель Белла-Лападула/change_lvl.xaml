@@ -1,0 +1,19 @@
+﻿<Window x:Class="модель_Белла_Лападула.change_lvl"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:модель_Белла_Лападула"
+        mc:Ignorable="d"
+        Title="change_lvl" Height="169.86" Width="300">
+    <Grid>
+        <StackPanel HorizontalAlignment="Left" Height="117" Margin="10,10,0,0" VerticalAlignment="Top" Width="272">
+            <TextBlock x:Name="textBlock" TextWrapping="Wrap" Text="Введите имя субъекта"/>
+            <TextBox x:Name="TBsubj" Height="23" TextWrapping="Wrap" Text=""/>
+            <TextBlock x:Name="textBlock1" TextWrapping="Wrap" Text="Выберите уровень конфиденциальности"/>
+            <ComboBox x:Name="CBacSubj" MouseEnter="CBacSubj_MouseEnter"/>
+            <Button x:Name="button" Content="Сменить уровень" Click="button_Click"/>
+        </StackPanel>
+
+    </Grid>
+</Window>

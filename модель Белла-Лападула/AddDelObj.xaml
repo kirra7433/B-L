@@ -1,0 +1,23 @@
+﻿<Window x:Class="модель_Белла_Лападула.AddDelObj"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:модель_Белла_Лападула"
+        mc:Ignorable="d"
+        Title="AddDelObj" Height="150.423" Width="534.085">
+    <Grid>
+        <StackPanel HorizontalAlignment="Left" Height="99" Margin="10,10,0,0" VerticalAlignment="Top" Width="251">
+            <TextBlock x:Name="textBlock" TextWrapping="Wrap" Text="Введите имя УДАЛЯЕМОГО файла"/>
+            <TextBox x:Name="TB_del_obj" Height="23" TextWrapping="Wrap" Text=""/>
+            <Button x:Name="button" Content="Удалить" Click="button_Click"/>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Left" Height="99" Margin="266,10,0,0" VerticalAlignment="Top" Width="241">
+            <TextBlock x:Name="textBlock1" TextWrapping="Wrap" Text="Введите имя ДОБАВЛЯЕМОГО файла"/>
+            <TextBox x:Name="tb_add_file" Height="23" TextWrapping="Wrap" Text=""/>
+            <TextBlock x:Name="textBlock2" TextWrapping="Wrap" Text="Выберите уровень конфиденциальности"/>
+            <ComboBox x:Name="CBlvl"/>
+            <Button x:Name="button1" Content="Добавить" Click="button1_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,103 @@
+C:\Users\Marianna\documents\visual studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\bin\Debug\модель Белла-Лападула.exe.config
+C:\Users\Marianna\documents\visual studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\bin\Debug\модель Белла-Лападула.exe
+C:\Users\Marianna\documents\visual studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\bin\Debug\модель Белла-Лападула.pdb
+C:\Users\Marianna\documents\visual studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\AcMa.g.cs
+C:\Users\Marianna\documents\visual studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\AddDelObj.g.cs
+C:\Users\Marianna\documents\visual studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\Add_Del_Rights.g.cs
+C:\Users\Marianna\documents\visual studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\Add_Del_Subj.g.cs
+C:\Users\Marianna\documents\visual studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\change_lvl.g.cs
+C:\Users\Marianna\documents\visual studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\MainWindow.g.cs
+C:\Users\Marianna\documents\visual studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\App.g.cs
+C:\Users\Marianna\documents\visual studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\модель Белла-Лападула_MarkupCompile.cache
+C:\Users\Marianna\documents\visual studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\модель Белла-Лападула_MarkupCompile.lref
+C:\Users\Marianna\documents\visual studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\AcMa.baml
+C:\Users\Marianna\documents\visual studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\AddDelObj.baml
+C:\Users\Marianna\documents\visual studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\Add_Del_Rights.baml
+C:\Users\Marianna\documents\visual studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\Add_Del_Subj.baml
+C:\Users\Marianna\documents\visual studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\change_lvl.baml
+C:\Users\Marianna\documents\visual studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\MainWindow.baml
+C:\Users\Marianna\documents\visual studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\модель Белла-Лападула.g.resources
+C:\Users\Marianna\documents\visual studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\модель_Белла_Лападула.Properties.Resources.resources
+C:\Users\Marianna\documents\visual studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\модель Белла-Лападула.csproj.GenerateResource.Cache
+C:\Users\Marianna\documents\visual studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\модель Белла-Лападула.exe
+C:\Users\Marianna\documents\visual studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\модель Белла-Лападула.pdb
+C:\Users\Marianna\documents\visual studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\модель Белла-Лападула.csprojResolveAssemblyReference.cache
+D:\skype\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\bin\Debug\модель Белла-Лападула.exe.config
+D:\skype\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\модель Белла-Лападула.exe
+D:\skype\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\модель Белла-Лападула.pdb
+D:\skype\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\bin\Debug\модель Белла-Лападула.exe
+D:\skype\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\bin\Debug\модель Белла-Лападула.pdb
+D:\skype\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\модель Белла-Лападула.csprojResolveAssemblyReference.cache
+D:\skype\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\AcMa.g.cs
+D:\skype\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\AddDelObj.g.cs
+D:\skype\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\Add_Del_Rights.g.cs
+D:\skype\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\Add_Del_Subj.g.cs
+D:\skype\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\change_lvl.g.cs
+D:\skype\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\MainWindow.g.cs
+D:\skype\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\App.g.cs
+D:\skype\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\модель Белла-Лападула_MarkupCompile.cache
+D:\skype\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\модель Белла-Лападула_MarkupCompile.lref
+D:\skype\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\AcMa.baml
+D:\skype\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\AddDelObj.baml
+D:\skype\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\Add_Del_Rights.baml
+D:\skype\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\Add_Del_Subj.baml
+D:\skype\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\change_lvl.baml
+D:\skype\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\MainWindow.baml
+D:\skype\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\модель Белла-Лападула.g.resources
+D:\skype\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\модель_Белла_Лападула.Properties.Resources.resources
+D:\skype\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\модель Белла-Лападула.csproj.GenerateResource.Cache
+D:\skype\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\change_owner.g.cs
+D:\skype\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\change_owner.baml
+C:\Users\Marianna\Documents\Visual Studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\bin\Debug\модель Белла-Лападула.exe.config
+C:\Users\Marianna\Documents\Visual Studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\модель Белла-Лападула.exe
+C:\Users\Marianna\Documents\Visual Studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\модель Белла-Лападула.pdb
+C:\Users\Marianna\Documents\Visual Studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\bin\Debug\модель Белла-Лападула.exe
+C:\Users\Marianna\Documents\Visual Studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\bin\Debug\модель Белла-Лападула.pdb
+C:\Users\Marianna\Documents\Visual Studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\модель Белла-Лападула.csprojResolveAssemblyReference.cache
+C:\Users\Marianna\Documents\Visual Studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\AcMa.g.cs
+C:\Users\Marianna\Documents\Visual Studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\AddDelObj.g.cs
+C:\Users\Marianna\Documents\Visual Studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\Add_Del_Rights.g.cs
+C:\Users\Marianna\Documents\Visual Studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\Add_Del_Subj.g.cs
+C:\Users\Marianna\Documents\Visual Studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\change_lvl.g.cs
+C:\Users\Marianna\Documents\Visual Studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\change_owner.g.cs
+C:\Users\Marianna\Documents\Visual Studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\MainWindow.g.cs
+C:\Users\Marianna\Documents\Visual Studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\App.g.cs
+C:\Users\Marianna\Documents\Visual Studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\модель Белла-Лападула_MarkupCompile.cache
+C:\Users\Marianna\Documents\Visual Studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\модель Белла-Лападула_MarkupCompile.lref
+C:\Users\Marianna\Documents\Visual Studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\AcMa.baml
+C:\Users\Marianna\Documents\Visual Studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\AddDelObj.baml
+C:\Users\Marianna\Documents\Visual Studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\Add_Del_Rights.baml
+C:\Users\Marianna\Documents\Visual Studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\Add_Del_Subj.baml
+C:\Users\Marianna\Documents\Visual Studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\change_lvl.baml
+C:\Users\Marianna\Documents\Visual Studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\change_owner.baml
+C:\Users\Marianna\Documents\Visual Studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\MainWindow.baml
+C:\Users\Marianna\Documents\Visual Studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\модель Белла-Лападула.g.resources
+C:\Users\Marianna\Documents\Visual Studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\модель_Белла_Лападула.Properties.Resources.resources
+C:\Users\Marianna\Documents\Visual Studio 2015\Projects\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\модель Белла-Лападула.csproj.GenerateResource.Cache
+D:\OneDrive - Оренбургский государственный университет\9 семестр\МБКС\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\bin\Debug\модель Белла-Лападула.exe.config
+D:\OneDrive - Оренбургский государственный университет\9 семестр\МБКС\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\bin\Debug\модель Белла-Лападула.exe
+D:\OneDrive - Оренбургский государственный университет\9 семестр\МБКС\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\bin\Debug\модель Белла-Лападула.pdb
+D:\OneDrive - Оренбургский государственный университет\9 семестр\МБКС\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\модель Белла-Лападула.csprojResolveAssemblyReference.cache
+D:\OneDrive - Оренбургский государственный университет\9 семестр\МБКС\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\AcMa.g.cs
+D:\OneDrive - Оренбургский государственный университет\9 семестр\МБКС\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\AddDelObj.g.cs
+D:\OneDrive - Оренбургский государственный университет\9 семестр\МБКС\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\Add_Del_Rights.g.cs
+D:\OneDrive - Оренбургский государственный университет\9 семестр\МБКС\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\Add_Del_Subj.g.cs
+D:\OneDrive - Оренбургский государственный университет\9 семестр\МБКС\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\change_lvl.g.cs
+D:\OneDrive - Оренбургский государственный университет\9 семестр\МБКС\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\change_owner.g.cs
+D:\OneDrive - Оренбургский государственный университет\9 семестр\МБКС\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\MainWindow.g.cs
+D:\OneDrive - Оренбургский государственный университет\9 семестр\МБКС\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\App.g.cs
+D:\OneDrive - Оренбургский государственный университет\9 семестр\МБКС\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\модель Белла-Лападула_MarkupCompile.cache
+D:\OneDrive - Оренбургский государственный университет\9 семестр\МБКС\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\модель Белла-Лападула_MarkupCompile.lref
+D:\OneDrive - Оренбургский государственный университет\9 семестр\МБКС\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\AcMa.baml
+D:\OneDrive - Оренбургский государственный университет\9 семестр\МБКС\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\AddDelObj.baml
+D:\OneDrive - Оренбургский государственный университет\9 семестр\МБКС\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\Add_Del_Rights.baml
+D:\OneDrive - Оренбургский государственный университет\9 семестр\МБКС\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\Add_Del_Subj.baml
+D:\OneDrive - Оренбургский государственный университет\9 семестр\МБКС\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\change_lvl.baml
+D:\OneDrive - Оренбургский государственный университет\9 семестр\МБКС\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\change_owner.baml
+D:\OneDrive - Оренбургский государственный университет\9 семестр\МБКС\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\MainWindow.baml
+D:\OneDrive - Оренбургский государственный университет\9 семестр\МБКС\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\модель Белла-Лападула.g.resources
+D:\OneDrive - Оренбургский государственный университет\9 семестр\МБКС\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\модель_Белла_Лападула.Properties.Resources.resources
+D:\OneDrive - Оренбургский государственный университет\9 семестр\МБКС\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\модель Белла-Лападула.csproj.GenerateResource.Cache
+D:\OneDrive - Оренбургский государственный университет\9 семестр\МБКС\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\модель Белла-Лападула.csproj.CoreCompileInputs.cache
+D:\OneDrive - Оренбургский государственный университет\9 семестр\МБКС\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\модель Белла-Лападула.exe
+D:\OneDrive - Оренбургский государственный университет\9 семестр\МБКС\модель Белла-Лападула\модель Белла-Лападула\модель Белла-Лападула\obj\Debug\модель Белла-Лападула.pdb
